@@ -1,0 +1,18 @@
+# Build files
+build/
+
+# Object files and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.out
+
+# Executables
+swap/swap
+revert_string/revert_string
+revert_string/revert_static
+revert_string/revert_dynamic
+
+# macOS
+.DS_Store
